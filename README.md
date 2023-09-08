@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**zzzw7/zzzw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lígia Cristina
+Prazer, sou de Pernambuco e tenho 27 anos. Estou em transição de carreira, comecei a cursar a faculdade de ADS pela UNICESUMAR em janeiro de 2023 e atualmente estou estudando Fullstack Java + Angular pelo programa Santander Bootcamp na DIO. Sou apaixonada por jogos, livros e cursos grátis.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes
+
+ [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/7nana/)
+[![GoodReads](https://img.shields.io/badge/Goodreads-000?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/user/show/137198730-l-gia/) 
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ligiacristinamorais/) 
+
+
+## Git Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzw7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
