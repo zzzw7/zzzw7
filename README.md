@@ -12,6 +12,5 @@ Sou iniciante em programação!
 ### 🌐 Redes sociais
 <a href="https://www.linkedin.com/in/ligia-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/zzz7zzz/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://www.goodreads.com/user/show/137198730-l-gia" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zzzw7&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF)
