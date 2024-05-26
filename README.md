@@ -8,6 +8,7 @@ Sou iniciante em programação!
 + Programa ONE (Oracle Next Education) parceria entre as empresas Oracle e Allura para formar novos programadores, escolhi a trilha Back-End.
 + Curso Web moderno completo com JavaScript + projetos - Curso com mais de 600 aulas com cerca de 85 horas totais de duração onde irei aprender o necessário para ser uma desenvolvedora Full Stack.
 + CS50 - A introdução da Universidade de Harvard a ciência da computação e a arte da programação.
++ Santander Bootcamp 2024 - Fundamentos de IA para Devs pela DIO.
 
 ### 🌐 Redes sociais
 <a href="https://www.linkedin.com/in/ligia-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
